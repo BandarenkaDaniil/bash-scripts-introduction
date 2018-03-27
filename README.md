@@ -9,10 +9,10 @@ The script outputs the results to a file (the third argument of the command line
 The console displays the total number of scanned files.
 
 ## How to run
-- Save the script.sh file
-- Give it execute permission 
+- Save the **script.sh** file
+- Give it **execute permission**
 
   >chmod +x script.sh
-- Run the script
+- **Run** the script
   
   >./script.sh [ownername] [directory] [outputfilename]
