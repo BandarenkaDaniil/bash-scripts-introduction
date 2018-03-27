@@ -1,6 +1,6 @@
 # Bash scripts Introduction
 
-**Laboratory work #1**
+**Operating systems & System Programming, Laboratory work #1**
 
 ## Task
 Write a script that finds all the files in the specified directory and all its subdirectories owned by the specified user.
