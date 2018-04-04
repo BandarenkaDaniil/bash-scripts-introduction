@@ -41,8 +41,8 @@ function main()
 
 	for currFile in $files
 	do
-			echo "$(realpath $currFile) $(basename $currFile) $(stat -c %s $currFile)" >> $outputFile
-			((totalFiles++))
+		echo "$(realpath $currFile) $(basename $currFile) $(stat -c %s $currFile)" >> $outputFile
+		((totalFiles++))
 	done
 
 	echo $totalFiles
